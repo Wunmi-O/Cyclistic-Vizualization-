@@ -1,2 +1,3 @@
-# CyclisticViz-
-Visualization for Google Data Analytics Capstone Project 
+# Cyclistic Vizualization-
+
+Visualization for Google Data Analytics Capstone Project using PowerBI

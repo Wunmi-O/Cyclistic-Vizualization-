@@ -5,10 +5,13 @@ In 2016, Cyclistic launched a successful bike-share offering. Since then, the pr
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. 
 
 ## The Dataset
-Dataset contained 11-month historical data containing columns like ride_id, rideable_type, started_at, ended_at, start_station_name, end_station_name, member_casual etc. Find <b><ins>[Dataset](https://www.kaggle.com/datasets/adewunmiolowu/cyclistic-bike-share?select=capstone2_1dayandless.csv)<b><ins><b>
+Dataset contained 11-month historical data containing columns like ride_id, rideable_type, started_at, ended_at, start_station_name, end_station_name, member_casual etc. 
+
+Find <b><ins>[Dataset](https://www.kaggle.com/datasets/adewunmiolowu/cyclistic-bike-share?select=capstone2_1dayandless.csv)<b><ins><b>
 
 
 ## Cleaning and Transformation
+
 First, cleaning and transformation had to be done on SQL. In order to present a workable dataset, I dealt with the following:
 1. Null values
 2. Duplicate rows
@@ -20,7 +23,10 @@ The cleaned dataset was later imported into PowerBI for transformation.
 3. Sort column 'Day' to follow its regular chronological order
 
 ## Vizualization 
-In order to understand the usage pattern of casual customers and how they differ from members, it was first important to understand the split in the number of rides taken by each customer type during the period under review. Then, a further deep dive was done to understand the split across bike types and customer types over four(4) quarters. Moving forward, I analysed the number of rides taken by each customer type per day and how this is spread across the various bike types. Finally, it was important to understand the time factor- what is the average time duration spent by each customer type and what bike type are they spending their time mostly on?
+In order to understand the usage pattern of casual customers and how they differ from members, it was first important to understand the split in the number of rides taken by each customer type during the period under review. Then, a further deep dive was done to understand the split across bike types and customer types over four(4) quarters. 
+
+Moving forward, I analysed the number of rides taken by each customer type per day and how this is spread across the various bike types. Finally, it was important to understand the time factor- what is the average time duration spent by each customer type and what bike type are they spending their time mostly on?
+
 Find <b><ins>[Interactive viz](https://app.powerbi.com/links/unym-37fAB?ctid=ad42a34b-c7c7-4982-9dd1-d2875b8a8521&pbi_source=linkShare)<ins><b>
 
 ![](Google_Capstone_Viz.jpg)

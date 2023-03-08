@@ -13,6 +13,7 @@ First, cleaning and transformation had to be done on SQL. In order to present a 
 1. Null values
 2. Duplicate rows
 3. Outliers
+
 The cleaned dataset was later imported into PowerBI for transformation. 
 1. Breakdown of timestamp into Day, Month, Quarter, Year, Period of day
 2. Calculate trip duration for each rides taken

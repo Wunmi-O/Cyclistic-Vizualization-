@@ -22,7 +22,7 @@ The cleaned dataset was later imported into PowerBI for transformation.
 2. Calculate trip duration for each rides taken
 3. Sort column 'Day' to follow its regular chronological order
 
-## Vizualization 
+## Visualization 
 In order to understand the usage pattern of casual customers and how they differ from members, it was first important to understand the split in the number of rides taken by each customer type during the period under review. Then, a further deep dive was done to understand the split across bike types and customer types over four(4) quarters. 
 
 Moving forward, I analysed the number of rides taken by each customer type per day and how this is spread across the various bike types. Finally, it was important to understand the time factor- what is the average time duration spent by each customer type and what bike type are they spending their time mostly on?
